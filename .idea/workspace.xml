@@ -2,110 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e326aa4-58b0-403e-877a-4a4a4c0e0f4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Node-Service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/bin/lessc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/benchmark/less-benchmark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.1.6.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.2.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.2.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.2.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.2.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.3.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-1.3.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-rhino-1.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/dist/less-rhino-1.1.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/cssmin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/rhino.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/alpha.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/anonymous.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/assignment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/call.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/condition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/dimension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/expression.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/import.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/keyword.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/mixin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/operation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/paren.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/quoted.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/rule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/ruleset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/value.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/lib/less/tree/variable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/comments.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/css-3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/css-escapes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/css.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/functions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/ie-filters.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/import.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/javascript.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/lazy-eval.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/mixins-args.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/mixins-closure.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/mixins-guards.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/mixins-important.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/mixins-nested.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/mixins-pattern.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/mixins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/operations.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/parens.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/rulesets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/scope.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/selectors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/strings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/variables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/css/whitespace.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/less-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/less/test/less/import/import-test-d.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/sLog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/plugin-base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/plugin-coffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/plugin-combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/plugin-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/plugin-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/plugin-less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/plugin-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/sea-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/dist/sea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/lib/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/lib/sea-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seajs/seajs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
     </list>
     <ignored path="Node-Service.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -127,19 +37,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="plugin-base.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seajs/seajs/dist/plugin-base.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="init.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="17" selection-start="919" selection-end="919" vertical-scroll-proportion="0.7824859">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="13" selection-start="802" selection-end="802" vertical-scroll-proportion="1.2429378">
+            <state line="7" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sea-node.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seajs/seajs/lib/sea-node.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin-less.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seajs/seajs/dist/plugin-less.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,7 +85,7 @@
       <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+            <state line="26" column="16" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -171,8 +108,8 @@
         <option value="$PROJECT_DIR$/less/a.js" />
         <option value="$PROJECT_DIR$/less/b.js" />
         <option value="$PROJECT_DIR$/less/c.js" />
-        <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/less/init.js" />
+        <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
@@ -227,34 +164,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node-Service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node-Service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node-Service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node-Service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -266,17 +175,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/seajs" />
       <recent name="$PROJECT_DIR$/node_modules" />
       <recent name="$PROJECT_DIR$/util.js" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node JS" working-dir="$PROJECT_DIR$">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node JS" working-dir="$PROJECT_DIR$" coffeescript-run="false">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -298,7 +208,6 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -310,6 +219,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -377,49 +287,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/less/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/less/lib/less/parser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="435" column="20" selection-start="16439" selection-end="16439" vertical-scroll-proportion="0.5381295">
-          <folding />
-        </state>
+        <state line="435" column="20" selection-start="16439" selection-end="16439" vertical-scroll-proportion="0.5381295" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/util/sLog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="35" selection-start="67" selection-end="67" vertical-scroll-proportion="0.06330935">
-          <folding />
-        </state>
+        <state line="2" column="35" selection-start="67" selection-end="67" vertical-scroll-proportion="0.06330935" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/less/dist/less-1.3.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="409" column="14" selection-start="12780" selection-end="12780" vertical-scroll-proportion="0.2532374">
-          <folding />
-        </state>
+        <state line="409" column="14" selection-start="12780" selection-end="12780" vertical-scroll-proportion="0.2532374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seajs/seajs/dist/plugin-debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.5310736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seajs/seajs/dist/plugin-combo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seajs/seajs/lib/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seajs/seajs/dist/plugin-base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seajs/seajs/dist/plugin-less.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
+        <state line="26" column="16" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/handlebars/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="13" selection-start="802" selection-end="802" vertical-scroll-proportion="1.2429378">
+        <state line="7" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seajs/seajs/lib/sea-node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="17" selection-start="919" selection-end="919" vertical-scroll-proportion="0.7824859">
           <folding />
         </state>
       </provider>
