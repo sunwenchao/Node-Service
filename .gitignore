@@ -4,3 +4,5 @@
 .idea/workspace.xml
 
 node_modules/.DS_Store
+
+.*
