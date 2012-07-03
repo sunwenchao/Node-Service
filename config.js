@@ -12,7 +12,7 @@ module.exports = {
 
     // LESS 相关配置
     LESSconfig : {
-
+        cssDir : true
     },
 
     // 使用 handlebars 服务

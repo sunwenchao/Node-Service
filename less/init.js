@@ -11,7 +11,8 @@ var fs = require( 'fs' ),
     logger = global.logger,
     CONFIG = global.CONFIG,
 
-    LESSREG = /\.less$/;
+    LESSREG = /\.less$/,
+    LESSDIRREG = /less$/;
 
 // LessWorker 类
 function LessWorker() {
@@ -91,21 +92,39 @@ _.extend( LessWorker.prototype, {
     // problem : @import 有事导致文件不被解析 待排查
     _compile : function( lessFile, fromWatch ){
 
-        var lessContents = fs.readFileSync( lessFile ).toString(); // 读取 less 文件
+        var lessContents = fs.readFileSync( lessFile ).toString(), // 读取 less 文件
+            lessParser = this.parser,
+            self = this;
 
-        this.parser.parse( lessContents, function( err, tree ){
+        lessParser.parse( lessContents, function( err, tree ){
 
             if( err ) return logger.debug( '编译 ' + lessFile + ' 发生错误: ' + err );
 
-            var cssFileName = lessFile.replace( LESSREG, '.css');
+            // todo  lessParser.imports.files
+
+            var cssFileName = self._getCssFileName( lessFile );
 
             fs.writeFileSync( cssFileName, tree.toCSS() ); // 写入 css 文件
 
             var logWord = fromWatch ? ' 监测到发生变动进行' : ' 初始化';
-
             logger.info( path.basename( lessFile ) + '--------->'
                 + path.basename( cssFileName ) + logWord + '编译成功!' );
         });
+    },
+
+    // 根据配置 返回生成css文件的位置
+    _getCssFileName : function( lessFile ){
+
+        if( CONFIG.LESSconfig.cssDir ){
+            var cssFileDir = path.dirname( lessFile ).replace( LESSDIRREG, 'css' );
+
+            if( !fs.existsSync( cssFileDir ) ) fs.mkdirSync( cssFileDir );
+
+            return cssFileDir + '/' + path.basename( lessFile ).replace( LESSREG, '.css' );
+
+        }else{
+            return lessFile.replace( LESSREG, '.css' );
+        }
     },
 
     // 实时监测 less 文件变化并编译的方法
@@ -122,4 +141,4 @@ _.extend( LessWorker.prototype, {
 
 // 外部接口
 exports.worker = LessWorker;
-exports.version = '0.0.1';
+exports.version = '0.0.2';
